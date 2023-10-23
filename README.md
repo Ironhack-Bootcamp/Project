@@ -2,9 +2,9 @@
 ## Requirements/Libraries Used:
 This code was written in Python/Jupyter Notebook, using the following libraries:
 
-Numpy
-Pandas
-matplotlib.pyplot
+Numpy \n
+Pandas \n
+matplotlib.pyplot 
 Seaborn
 re
 datetime
