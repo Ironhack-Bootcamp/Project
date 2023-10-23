@@ -1,16 +1,20 @@
 # Project I | Pandas
 
-
-
 ## Requirements/Libraries Used:
 This code was written in Python/Jupyter Notebook, using the following libraries:
 
 *Numpy
+
 *Pandas
+
 *matplotlib.pyplot 
+
 *Seaborn
+
 *re
+
 *datetime
+
 *geonamescache
 
 ## Hypotheses: 
