@@ -46,6 +46,10 @@ This data suggests that some shark species pose a potentially higher risk to hum
 
 Some shark species demonstrate a higher propensity for attacking humans than others. This could be influenced by factors such as the species' behavior, habitat, and feeding preferences.
 
-# 4- 4- Could there be activities more prone to attacks?
+# 4- Could there be activities more prone to attacks?
 
 Some aquatic activities are riskier than others due to factors such as the presence of potential prey, water conditions, and human behaviors. To keep safe in areas where shark encounters are common, it's important to get a better understanding of these activities and their connection to shark attacks.
+
+# Conclusion
+
+Certain countries are more prone to shark attacks due to geography, climate, and human activities. Some shark species are more dangerous to humans based on their fatality rates. Certain water activities carry higher risk due to factors like prey, water conditions, and human behavior. Understanding these risks is crucial to enhance safety in areas where shark encounters are common.
