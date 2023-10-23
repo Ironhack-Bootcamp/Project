@@ -1,4 +1,6 @@
-# Project 1 | Pandas.
+# Project I | Pandas
+
+
 
 ## Requirements/Libraries Used:
 This code was written in Python/Jupyter Notebook, using the following libraries:
