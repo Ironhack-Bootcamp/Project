@@ -34,7 +34,9 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 4- It is possible that specific human activities are at a higher risk of shark attacks.
 
+
 ## Analysis
+
 
 # 1- Certain countries exhibit a higher susceptibility to shark attacks than others
 
