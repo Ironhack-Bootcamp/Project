@@ -26,13 +26,15 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 *geonamescache
 
 ## Hypotheses: 
-1- Are there countries more prone to shark attacks?
+1- Certain countries exhibit a higher susceptibility to shark attacks than others
 
-2- What shark species are more dangerous?
+2- The risk level associated with different shark species
 
-3- Do they typically attack humans?
+3- The tendency of sharks to attack humans
 
-4- Could there be activities more prone to attacks?
+4- It is possible that specific human activities are at a higher risk of shark attacks.
+
+## Analysis
 
 # 1- Certain countries exhibit a higher susceptibility to shark attacks than others
 
